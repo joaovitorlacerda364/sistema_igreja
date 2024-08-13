@@ -1,0 +1,43 @@
+/* Logo Tiles */
+.logo-tiles .section-text {
+    font-size: 36px;
+}
+
+.logo-tiles .tiles__container {
+    margin-top: 48px;
+    columns: 5 292px;
+    column-gap: 0.5rem;
+}
+
+.logo-tiles .tiles__container div.tile {
+    background: #EC985A;
+    color: white;
+    margin: 0;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.logo-tiles .tile {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 0;
+    overflow: hidden;
+}
+
+.logo-tiles .tile__logo {
+    padding: 48px 0;
+    width: 100%;
+    text-align: center;
+    background-color: #fff;
+}
+
+.logo-tiles .tile__logo img {
+    max-width: 292px;
+}
+
+.logo-tiles .section-text {
+    margin-top: 48px;
+    font-size: 36px;
+    font-style: italic;
+}

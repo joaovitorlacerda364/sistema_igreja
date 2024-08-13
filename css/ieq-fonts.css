@@ -1,0 +1,40 @@
+
+@font-face {
+    font-family: "Beatrice Light";
+    src: url("../fonts/Beatrice-Light.woff2") format("woff2"),
+        url("../fonts/Beatrice-Light.woff") format("woff"),
+        url("../fonts/Beatrice-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Beatrice Regular";
+    src: url("../fonts/Beatrice-Regular.woff2") format("woff2"),
+        url("../fonts/Beatrice-Regular.woff") format("woff"),
+        url("../fonts/Beatrice-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Beatrice Regular Italic";
+    src: url("../fonts/Beatrice-RegularItalic.woff2") format("woff2"),
+        url("../fonts/Beatrice-RegularItalic.woff") format("woff"),
+        url("../fonts/Beatrice-RegularItalic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Beatrice Bold";
+    src: url("../fonts/Beatrice-Bold.woff2") format("woff2"),
+        url("../fonts/Beatrice-Bold.woff") format("woff"),
+        url("../fonts/Beatrice-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Beatrice Bold Italic";
+    src: url("../fonts/Beatrice-BoldItalic.woff2") format("woff2"),
+        url("../fonts/Beatrice-BoldItalic.woff") format("woff"),
+        url("../fonts/Beatrice-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Inter Regular";
+    src: url("../fonts/Inter-Regular.ttf") format("truetype");
+}
